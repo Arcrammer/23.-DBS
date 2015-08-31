@@ -1,2 +1,3 @@
-# 23.-DBS
-Database Structures
+# Database Structures
+
+The Database Structures Course focuses on the creation of databases and their comprising table structures. In this class students learn the benefits of creating database structures with regard to such concepts as storage anomalies and table normalization. Students also learn a Data Definition Language used to create their database structures. Developing a database for use with a server-side scripting language allows students to develop more robust web applications, as they are an integral part of deploying dynamic web content for mid-to large-sized corporations.
